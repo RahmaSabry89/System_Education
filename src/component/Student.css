@@ -1,0 +1,124 @@
+.divrootSt {
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 100vh;
+    display: block;
+    background-color: rgb(216, 216, 216);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.update {
+    background-color: black;
+    border: none;
+    color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    cursor: pointer;
+    width: 30%;
+    height: 0%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-decoration: none;
+}
+
+.update:hover {
+    color: rgb(216, 216, 216);
+    ;
+
+}
+
+.nav-item2 {
+    margin-left: 200px;
+}
+
+.card {
+    width: 25%;
+    height: 30%;
+    padding-left: 0px;
+    padding-top: 0px;
+    margin-top: 125px;
+    margin-left: 90px;
+    position: relative;
+}
+
+.card-text {
+    text-align: center;
+    margin-right: 0px;
+}
+
+
+.card-silf {
+    align-content: flex-end;
+    position: relative;
+    top: 100px;
+    right: 160px;
+    background-color: white;
+    margin-left: 500px;
+    width: 700px;
+    height: 600px;
+    align-content: center;
+    border: rgb(255, 251, 251) 2px solid;
+    padding-top: 10px;
+}
+
+
+
+.card-img-top2 {
+    position: relative;
+    clip-path: circle(50%);
+    width: 100px;
+    margin-left: 99px;
+    margin-top: 5px;
+
+    background-color: white;
+}
+
+
+
+.card-silf {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.photo {
+    width: 340px;
+    height: 340px;
+
+}
+
+.a3lan {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.hr {
+    color: black;
+    size: 10px;
+    padding-top: 2px;
+}
+
+.p1 {
+    margin-top: px;
+    padding-top: 35px;
+    margin-bottom: 0px;
+}
+
+.form {
+    align-items: center;
+    display: flex;
+}
+
+.navbar.fixed-top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+}
